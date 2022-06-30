@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredients":
+    {
+      "item": "dorlanstuff:jepithyst_ore"
+    },
+  "result": "dorlanstuff:jepithyst_gem",
+  "experience": 0.7,
+  "cookingtime": 100
+}

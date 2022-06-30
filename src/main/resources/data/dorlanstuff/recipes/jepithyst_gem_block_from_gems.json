@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dorlanstuff:jepithyst_gem"
+    }
+  },
+  "result": {
+    "item": "dorlanstuff:jepithyst_gem_block"
+  }
+}

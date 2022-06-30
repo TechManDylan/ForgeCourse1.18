@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dorlanstuff:gweenite_gem_block"
+    }
+    ],
+  "result": {
+    "item": "dorlanstuff:gweenite_gem",
+    "count": "9"
+  }
+}

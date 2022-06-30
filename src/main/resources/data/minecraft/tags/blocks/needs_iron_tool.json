@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dorlanstuff:simpium_ore",
+    "dorlanstuff:simpium_gem_block",
+    "dorlanstuff:gweenite_ore",
+    "dorlanstuff:gweenite_gem_block",
+    "dorlanstuff:jepithyst_ore",
+    "dorlanstuff:jepithyst_gem_block"
+  ]
+}

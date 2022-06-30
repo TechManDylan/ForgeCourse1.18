@@ -1,0 +1,22 @@
+{
+  "item.dorlanstuff.simpium_gem": "Simpium Gem",
+  "item.dorlanstuff.gweenite_gem": "Gweenite Gem",
+  "item.dorlanstuff.gweenite_sword": "Gweenite Sword",
+  "item.dorlanstuff.gweenite_pickaxe": "Gweenite Pickaxe",
+  "item.dorlanstuff.gweenite_shovel": "Gweenite Shovel",
+  "item.dorlanstuff.gweenite_axe": "Gweenite Axe",
+  "item.dorlanstuff.jepithyst_gem": "Jepithyst Gem",
+  "item.dorlanstuff.coal_sliver": "Coal Sliver",
+  "item.dorlanstuff.rock_candy": "Rock Candy",
+
+  "block.dorlanstuff.simpium_ore": "Simpium Ore",
+  "block.dorlanstuff.simpium_gem_block": "Simpium Gem Block",
+  "block.dorlanstuff.gweenite_ore": "Gweenite Ore",
+  "block.dorlanstuff.gweenite_gem_block": "Gweenite Gem Block",
+  "block.dorlanstuff.jepithyst_ore": "Jepithyst Ore",
+  "block.dorlanstuff.jepithyst_gem_block": "Jepithyst Gem Block",
+  "block.dorlanstuff.kill_block": "Kill Block",
+
+  "itemGroup.dorlanstufftab": "Dorlan Stuff"
+
+}
